@@ -43,9 +43,10 @@ nav {
 }
 .card{
     display:flex;
+    align-items: baseline;
 }
 article{
-    display: inline-block;
+    display:inline-flex;
     margin: 10px;
     padding: 10px;
 }
