@@ -13,11 +13,17 @@ h1 {
   padding: 30px;
   background-color: black;
 }
-h2{
+h3{
     text-align: center;
-    font-size: 30px;
-    padding: 20px;
-    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+}
+.descripcion{
+    margin: 0px;
+    padding-top: 2rem;
+}
+.descripcion p{
+    font-size: medium;
 }
 nav {
   display: flex;
