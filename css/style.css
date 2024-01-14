@@ -54,6 +54,9 @@ section{
 text-align: center;
 padding-top: 40px;
 }
+.acordiones{
+  display: inline-block;
+}
 footer{
     bottom: 0;
     width: 100%;
