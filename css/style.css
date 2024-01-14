@@ -46,13 +46,17 @@ nav {
     align-items: baseline;
 }
 article{
-    display:inline-flex;
     margin: 10px;
     padding: 10px;
+    display: inline-block;
 }
 section{
 text-align: center;
 padding-top: 40px;
+margin-bottom: 40px;
+}
+#informacion{
+  padding-top: 80px;
 }
 footer{
     bottom: 0;
@@ -67,6 +71,9 @@ footer h3{
 }
 img{
     padding: 10px;
+}
+#pruebas{
+  width: 200px;
 }
 .img-github{
     padding-top: 70px;
