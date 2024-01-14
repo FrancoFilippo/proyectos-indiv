@@ -65,6 +65,9 @@ section {
   align-items: end; 
   margin-left: 70px;
 }
+#paqueteadobe{
+  margin-bottom: 200px;
+}
 #progra{
  display: flex;
 }
